@@ -8,4 +8,4 @@ Make a JS project that telling a joke.
 ![Look at the Joke Teller Flow Chart by Jacinto Wong](Joke+Teller+Flowchart.png)
 
 -----
-- Project  can be found [here]{} 
+- Project  can be found [here]{https://aysbt.github.io/jokeTeller/} 
